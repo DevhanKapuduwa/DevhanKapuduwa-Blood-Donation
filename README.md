@@ -29,7 +29,7 @@ This mobile application is designed to digitalize the blood donation process by 
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/blood-donation-app.git
+   git clone https://github.com/DevhanKapuduwa/DevhanKapuduwa-Blood-Donation.git
 
 2. Navigate to the project directory:
    ```bash
