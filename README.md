@@ -33,7 +33,7 @@ This mobile application is designed to digitalize the blood donation process by 
 
 2. Navigate to the project directory:
    ```bash
-    cd blood-donation-app
+    cd ../BloodDonation
    
 3. Install dependencies:
    ```bash
